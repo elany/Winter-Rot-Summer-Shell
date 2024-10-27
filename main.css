@@ -20,7 +20,7 @@ body {
   padding-bottom: 8px;
   padding-left: 15px;
   padding-right: 15px;
-  box-shadow: 0 10px 40px rgba(0, 0, 20, 0.8);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.8);
 }
 
 .podfic img {
@@ -38,8 +38,8 @@ body {
     linear-gradient(155deg,#686869, #868686, #686869, #c3c3c4, #686869, #404141, #686869, #848485)
       border-box;
   border: 15px solid transparent;
-  -webkit-box-shadow: 0 0 20px rgba(20, 30, 44, 0.8);
-  box-shadow: 0 0 20px rgba(10, 20, 44, 0.8);
+  -webkit-box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
 }
 
 .podfic:hover img {
