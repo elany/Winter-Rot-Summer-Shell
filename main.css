@@ -51,6 +51,10 @@ body {
 }
 
 .description {
+  border-radius: 500px 500px 0 0;
+  -webkit-border-radius: 500px 500px 0 0;
+  -moz-border-radius: 500px 500px 0 0;
+  -o-border-radius: 500px 500px 0 0;
   max-width: 500px;
   position: absolute;
   margin: auto;
@@ -134,7 +138,7 @@ audio {
 }
 
 .podfic img {
-  max-width: 80vw;
+  max-width: 85vw;
   border-radius: 500px;
   -webkit-border-radius: 500px;
   -moz-border-radius: 500px;
@@ -142,6 +146,10 @@ audio {
   }
 
   .description {
+  border-radius: 500px 500px 0 0;
+  -webkit-border-radius: 500px 500px 0 0;
+  -moz-border-radius: 500px 500px 0 0;
+  -o-border-radius: 500px 500px 0 0;
   max-width: 85vw;
   margin-top: -300px;
 }
