@@ -139,23 +139,15 @@ audio {
 
 .podfic img {
   max-width: 85vw;
-  border-radius: 500px;
-  -webkit-border-radius: 500px;
-  -moz-border-radius: 500px;
-  -o-border-radius: 500px;
   }
 
   .description {
-  border-radius: 500px 500px 0 0;
-  -webkit-border-radius: 500px 500px 0 0;
-  -moz-border-radius: 500px 500px 0 0;
-  -o-border-radius: 500px 500px 0 0;
   max-width: 85vw;
   margin-top: -300px;
 }
 
   .podfic p {
-  font-size: 0.9em;
+  font-size: 0.85em;
 }
 
 .podfic h2 {
